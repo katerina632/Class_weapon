@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\DZ\Class_Weapon\Source.cpp(102,9): warning C4101: 'weaponSecond': unreferenced local variable
+  Class_Weapon.vcxproj -> C:\Users\User\Desktop\DZ\Class_Weapon\Debug\Class_Weapon.exe
